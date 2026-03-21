@@ -20,7 +20,7 @@ public class one {
         digits[firstNonZero] = digits[0];
         digits[0] = firstDigit;
 
-        writer.write(new String(digits));
+        writer.write(String.valueOf(digits));
         writer.newLine();
         writer.flush();
 
