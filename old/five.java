@@ -1,4 +1,4 @@
-package to_repository.Tinkoff;
+package Tin_const.summer_2025.programming.old;
 
 import java.io.*;
 
